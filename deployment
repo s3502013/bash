@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "Change to home directory"
+cd
+
+echo "Download and source aliases"
+wget https://raw.githubusercontent.com/s3502013/bash/main/.bash_aliases
+
+source ~/.bash_aliases
