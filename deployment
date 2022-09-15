@@ -6,6 +6,6 @@ cd
 echo "Download and source aliases"
 wget https://raw.githubusercontent.com/s3502013/bash/main/.bash_aliases
 
-Echo "Sleep for 3 seconds"
+echo "Sleep for 3 seconds"
 sleep 3
 source .bash_aliases
